@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="MPI_NPE_NFE210_Aerobreizh" id="adeed1e9-c082-4f8c-9677-e1de18e41775" version="4.0.0">
+  <folder name="Strategy" id="1bad4877-0009-4b00-b1a8-2daba82c0ecd" type="strategy"/>
+  <folder name="Business" id="ec2192e3-330c-4481-a3e7-0d926516a501" type="business"/>
+  <folder name="Application" id="dc2ac3e1-621a-4b0a-a26c-9e7f9df9a483" type="application"/>
+  <folder name="Technology &amp; Physical" id="f9b63cbb-7101-4495-a2d7-260ab0458529" type="technology"/>
+  <folder name="Motivation" id="7e1526ca-23d8-4ec1-8b00-518839d62db4" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="4d13bda7-9157-47a2-abef-7b612745612f" type="implementation_migration"/>
+  <folder name="Other" id="f294b583-7ffc-474c-abbe-d16951e32dd9" type="other"/>
+  <folder name="Relations" id="09c1f154-2ee7-49d8-8ca2-9bdd235cc10b" type="relations"/>
+  <folder name="Views" id="cf4db633-ac05-405f-b1ac-e81e9d343d6b" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="8fb867f6-f746-40c6-a352-db9994f3d06d"/>
+  </folder>
+</archimate:model>
