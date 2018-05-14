@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="MPIR_EXE" id="0c7bfbed-4093-4708-9bae-ebf0ec8b58fb" version="4.0.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="MPIR_NPE_EXE" id="0c7bfbed-4093-4708-9bae-ebf0ec8b58fb" version="4.0.0">
   <folder name="Strategy" id="ac8c5a0d-fd53-4d5c-bb21-b309fa7a67be" type="strategy"/>
   <folder name="Business" id="e474cdb3-a2ec-4375-9525-1334ccb51fef" type="business">
     <element xsi:type="archimate:BusinessActor" name="Comptable" id="d6a46094-779a-42fd-ae34-b34b202ea1e0"/>
