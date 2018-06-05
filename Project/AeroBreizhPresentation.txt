@@ -1,0 +1,52 @@
+@startuml
+
+scale 3
+skinparam backgroundColor #transparent
+skinparam arrowColor #white
+
+skinparam actor{
+	BackgroundColor #B01513
+	BorderColor #B01513
+	Shadowing false
+	FontColor #white
+	FontStyle Bold
+}
+
+skinparam rectangle {
+	BackgroundColor #B01513
+	FontStyle Bold
+	RoundCorner 30
+	BorderThickness 0
+}
+
+actor "Aero-Breizh" as AB
+rectangle "<font color="white">CA 2017 : 175M€</font>" as CA
+rectangle "<font color="white">Présent sur 3 continents</font>" as GEO #B01513
+rectangle "Valeurs" as VAL #orange
+rectangle "JAR 145 - F004" as VAL1 #FFCE85
+rectangle "FAR 145 - XD6Y805J" as VAL2 #FFCE85
+rectangle "ISO 9001:2000/ AQAP" as VAL3 #FFCE85
+rectangle "Qualifas 101" as VAL4 #FFCE85
+
+rectangle "Certifications" as CERT #yellow
+rectangle "JAR 145 - F004" as CERT1 #LightYellow
+rectangle "FAR 145 - XD6Y805J" as CERT2 #LightYellow
+rectangle "ISO 9001:2000/ AQAP" as CERT3 #LightYellow
+rectangle "Qualifas 101" as CERT4 #LightYellow
+
+AB -up-> GEO
+AB -up-> CA
+AB --> CERT
+AB --> VAL
+
+CERT -left-> CERT1
+CERT --> CERT2
+CERT -up-> CERT3
+CERT --> CERT4
+
+VAL --> VAL1
+VAL --> VAL2
+VAL -right-> VAL3
+VAL -up-> VAL4
+
+@enduml
