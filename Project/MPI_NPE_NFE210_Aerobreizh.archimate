@@ -111,6 +111,8 @@
     <element xsi:type="archimate:DataObject" name="Donnée technique" id="985f7443-1a0b-4ea2-8a76-dca6341570e6"/>
     <element xsi:type="archimate:ApplicationService" name="Application Service" id="4979ddc5-e226-4410-9ac7-0c34070c9b44"/>
     <element xsi:type="archimate:DataObject" name="Data Object" id="4b8f2d5f-aba8-4500-b3d7-1c7f673c24e3"/>
+    <element xsi:type="archimate:ApplicationService" name="Application Service" id="55b3d9ee-26cd-4865-a73f-b6129014eb28"/>
+    <element xsi:type="archimate:DataObject" name="Data Object" id="92d00b82-dbdb-4f70-9f92-89e086d8adca"/>
   </folder>
   <folder name="Technology &amp; Physical" id="f9b63cbb-7101-4495-a2d7-260ab0458529" type="technology">
     <element xsi:type="archimate:Facility" name="Hangars" id="8eb5b4c8-f405-463c-addb-bb0eaf61b8b1"/>
@@ -1202,7 +1204,7 @@
             <bounds x="12" y="24" width="120" height="55"/>
           </child>
         </child>
-        <child xsi:type="archimate:Group" id="97a00787-5c42-40c0-a3b6-6038643ed2e6" name="Maintenance cellule et modifications" textAlignment="1" fillColor="#9bcdff">
+        <child xsi:type="archimate:Group" id="97a00787-5c42-40c0-a3b6-6038643ed2e6" name="Vente et distribution de pièces" textAlignment="1" fillColor="#9bcdff">
           <bounds x="276" y="132" width="241" height="97"/>
           <child xsi:type="archimate:DiagramObject" id="a5ae3af4-8839-41de-a38a-0996c9ba5cf1" textPosition="1" archimateElement="f052b242-36ee-456d-be39-9b71e001062d" type="1">
             <bounds x="12" y="24" width="181" height="55"/>
