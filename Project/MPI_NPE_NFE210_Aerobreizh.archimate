@@ -64,6 +64,9 @@
     <element xsi:type="archimate:BusinessFunction" name="Vente et distribution de pièces" id="a6852da8-c87e-45fc-b0f2-cf78d1665638"/>
     <element xsi:type="archimate:BusinessService" name="Service de suivi d'informations d'expédition" id="d910bc7c-e99d-4876-9afd-36db6614ba49"/>
     <element xsi:type="archimate:BusinessService" name="Service de vente de pièces" id="862683a5-3db6-45af-b3f7-41ca610bcd2d"/>
+    <element xsi:type="archimate:BusinessActor" name="Business Actor" id="95741a5f-3a54-48c6-aaf7-2d91092c93e4"/>
+    <element xsi:type="archimate:BusinessFunction" name="Business Function" id="fd630698-72fd-4577-8fe4-709d2e9cfc3a"/>
+    <element xsi:type="archimate:BusinessService" name="Business Service" id="b2b4b163-c33c-4762-a5cf-f973ac60ed67"/>
   </folder>
   <folder name="Application" id="dc2ac3e1-621a-4b0a-a26c-9e7f9df9a483" type="application">
     <element xsi:type="archimate:ApplicationComponent" name="Ingenierie" id="f3fbe137-b506-4398-bac2-8c7569441245"/>
@@ -106,7 +109,7 @@
     <element xsi:type="archimate:ApplicationService" name="(SF) Service de recrutement" id="8b9d31c5-3474-407d-a8b2-6f28280f1ce0"/>
     <element xsi:type="archimate:ApplicationService" name="(SF) Service de support client" id="0fba1105-668f-4558-ad85-488d4d13fcfd"/>
     <element xsi:type="archimate:ApplicationService" name="(SF) SGDT" id="5cae4e20-1654-490d-91a5-fb3f496489e8"/>
-    <element xsi:type="archimate:ApplicationComponent" name="Système ERP" id="52636790-ab18-4a38-82cb-a214f593b94d"/>
+    <element xsi:type="archimate:ApplicationComponent" name="Solution PGI" id="52636790-ab18-4a38-82cb-a214f593b94d"/>
     <element xsi:type="archimate:ApplicationComponent" name="Application Component" id="8ab5b091-bbfc-4a99-ac8c-0d4aa1fe6f20"/>
     <element xsi:type="archimate:DataObject" name="Donnée technique" id="985f7443-1a0b-4ea2-8a76-dca6341570e6"/>
     <element xsi:type="archimate:ApplicationService" name="Application Service" id="4979ddc5-e226-4410-9ac7-0c34070c9b44"/>
@@ -131,7 +134,7 @@
     <element xsi:type="archimate:Node" name="Domaine technique" id="6a15a336-67db-4ffe-bc20-6b99df97c3a0"/>
     <element xsi:type="archimate:TechnologyService" name="Service de domaine technique" id="14dc99f5-1d9b-4486-ba3f-0a0f81b6b0ce"/>
     <element xsi:type="archimate:TechnologyService" name="Service de domaine de gestion" id="f5fa497e-e5d0-4df1-aadc-fcc24385e6dc"/>
-    <element xsi:type="archimate:Node" name="Synthex" id="7a803c62-3951-4ae0-bea3-46c1cb51d214"/>
+    <element xsi:type="archimate:Node" name="ERP Synthex" id="7a803c62-3951-4ae0-bea3-46c1cb51d214"/>
     <element xsi:type="archimate:TechnologyService" name="(ST) Suite d'applications " id="21ec3551-3fd1-4959-b371-f36cdb007b06"/>
     <element xsi:type="archimate:Node" name="Node" id="b741fa2b-0e1e-499a-ac7c-a84dad5f58f2"/>
     <element xsi:type="archimate:Device" name="Device" id="6cec09bd-ca91-4bdc-8b22-8dde9cd63af1"/>
@@ -2449,6 +2452,26 @@
         </child>
         <child xsi:type="archimate:DiagramObject" id="59b1b7fd-c92c-4b7a-b3d0-d6b65f809e53" archimateElement="06bae00e-71bb-4943-86d7-afb4ac8cc5e2">
           <bounds x="408" y="24" width="120" height="55"/>
+        </child>
+      </child>
+      <child xsi:type="archimate:Group" id="ef4e9872-0f71-4eb2-9723-135918287fc3" name="Légende" textAlignment="1" fillColor="#ffffff">
+        <bounds x="24" y="336" width="1069" height="97"/>
+        <child xsi:type="archimate:DiagramObject" id="74b60d7f-c03e-4ef5-8e9c-173253dfe962" archimateElement="95741a5f-3a54-48c6-aaf7-2d91092c93e4">
+          <bounds x="12" y="24" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="596fdb21-b4d9-4a1f-ab96-fb50986bc1dd" archimateElement="fd630698-72fd-4577-8fe4-709d2e9cfc3a">
+          <bounds x="144" y="24" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="91793c43-3b06-44a3-88ce-4dc123481bd7" archimateElement="b2b4b163-c33c-4762-a5cf-f973ac60ed67" type="1">
+          <bounds x="276" y="24" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:Note" id="5aeb76b0-d55f-49c1-97a3-7fdf08b51843" textAlignment="1" fillColor="#80ff80">
+          <bounds x="432" y="24" width="133" height="32"/>
+          <content>Service métier existant</content>
+        </child>
+        <child xsi:type="archimate:Note" id="85c2e78f-b014-475f-8674-a3e7e0e52fe3" textAlignment="1" fillColor="#ff8000">
+          <bounds x="432" y="55" width="133" height="32"/>
+          <content>Service métier futur</content>
         </child>
       </child>
     </element>
