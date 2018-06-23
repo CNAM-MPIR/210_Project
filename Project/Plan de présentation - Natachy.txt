@@ -39,6 +39,6 @@ Diapositive 11 (00m20s) :
 		> Améliorer notre accueil téléphonique
 		> et améliorer le service à nos clients en matière d'information et service après-vente (SAV)
 
-Diapositive 11 (00m20s) :
+Diapositive 12 (00m20s) :
 	- Concernant le projet O3, le résultat sera la mise en place de l'extranet O3 et l'objectif fixé est :
-		> L'accès à une information en temps réel sur les services proposés par Aero-Breizh
+		> L'accès à une information en temps réel sur les services proposés par Aero-Breizh par les clients opérateurs, ici représentés comme stakeholders
