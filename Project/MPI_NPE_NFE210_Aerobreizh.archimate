@@ -244,7 +244,7 @@
     <element xsi:type="archimate:Location" name="UK" id="61b23cc6-e2e6-452c-8324-40edb8baa967"/>
     <element xsi:type="archimate:Location" name="Glasgow" id="2eaf57bd-12ea-4bdb-92e2-dab8ba18fb8d"/>
     <element xsi:type="archimate:Location" name="Asie" id="380b2929-245e-4f19-aaf5-ec9af78438ea"/>
-    <element xsi:type="archimate:Location" name="Malasie" id="a2aa6616-b084-4bad-bd35-72ea474485a5"/>
+    <element xsi:type="archimate:Location" name="Malaisie" id="a2aa6616-b084-4bad-bd35-72ea474485a5"/>
     <element xsi:type="archimate:Location" name="Kuala-Lumpur" id="70569eb4-3fc7-4888-b2f7-d09aa7e84db3"/>
     <element xsi:type="archimate:Grouping" name="PCT/AOG Desk" id="f8d22c4d-b273-4ff6-a0c8-356cf14f91be"/>
     <element xsi:type="archimate:Grouping" name="Orientations stratégiques" id="5e63fdbf-afab-415c-896d-bdd6df694ce1"/>

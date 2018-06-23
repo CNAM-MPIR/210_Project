@@ -1,0 +1,44 @@
+Diapositive 6 (00m20s) :
+	- Aero-Breizh est constitué par :
+		> une équipe de 1000 collaborateurs
+		> un conseil de direction qui contient le directeur général et le président
+		> et un Comité de direction dans lequel le président fait partie
+
+Diapositive 7 (00m20s) :
+	- La société est présente sur 3 continents, comme dit précédemment
+		> en Europe, au le Royaume Uni et en France
+		> en Amérique, aux USA
+		> en Asie, à Malaisie
+
+Diapositive 8 (00m20s) :
+	- Le cœur de métier de notre société est présenté dans cette diapositive par ces 6 fonctions
+		> Chaque fonction fournit les services qui sont présents en vert et orange
+	>>>> Je fais un clic qui fait apparaitre la première fonction plus grande <<<<
+	- Si nous regardons plus en détail la fonction "Ingénierie et gestion des données techniques"
+		> Les services qui existent déjà sont ici présentés en vert
+		> Le service orange représente un nouveau service qui sera proposé lors de l'urbanisation du SI
+
+Diapositive 10 (02m30s) :
+	- Au début : nous allons maintenant vous présenter la stratégie définie pour l'urbanisation du SI
+	
+	>>>> Je clique une fois, et les orientations stratégiques sont affichées plus grand <<<<
+	- Nous avons défini des orientations stratégiques qui servent de base à notre travail d'urbanisation.
+	- Une de ces orientations est le "Support de nos valeurs par une amélioration continue" qui influence tous les projets proposés
+	
+	>>>> Je clique une 2eme fois, les stakeholders sont affichés plus grand <<<<
+	- Ces orientations stratégiques ont été fixées par la direction et des objectifs ont été établis par le Conseil de direction et le DGSI
+	
+	>>>> Je clique une 3eme fois, les objectifs sont affichés <<<<
+	- Deux objectifs globaux ont été fixés, à savoir l'harmonisation du SI et la fusion au sein d'une solution unique, car la solution actuelle est très découpée, comme nous allons montrer plus en détail
+	- Les objectifs de chaque projet proposé sont plus détaillés dans le rapport avec un code couleur, comme nous pouvons le voir dans la diapositive
+	- Nous allons vous présenter les objectifs du projet AeroNet et O3 dans cette présentation
+
+Diapositive 11 (00m20s) :
+	- 3 objectifs ont été fixés pour que le résultat ici présenté en bas, la mise en place du réseau Aeronet soit atteint
+		> Constituer une structure d'accueil de toutes les applications
+		> Améliorer notre accueil téléphonique
+		> et améliorer le service à nos clients en matière d'information et service après-vente (SAV)
+
+Diapositive 11 (00m20s) :
+	- Concernant le projet O3, le résultat sera la mise en place de l'extranet O3 et l'objectif fixé est :
+		> L'accès à une information en temps réel sur les services proposés par Aero-Breizh
