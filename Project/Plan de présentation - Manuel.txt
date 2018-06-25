@@ -1,0 +1,45 @@
+Diapositive 1-4 (00m50s) :
+	- Bonsoir, nous allons présenter notre travail d'analyse de la société Aero-Breizh
+	- Notre présentation sera composé de 2 parties : 
+		> la présentation et l'analyse métier et la stratégie, présenté par Natachy
+		> les modifications apportés par l'urbanisation et le projet de migration présentés par moi même
+	>>>> Clic <<<<
+	- La société Aero-Breizh est dans le domaine de l'aéronautique et a fait 175M€ de CA en 2017.
+	- Elle est présente sur 3 continents et elle s'appui sur ses certifications et valeurs pour mener ses activités.
+	
+>>>> Je passe la parole à Natachy <<<<
+
+Diapositive 14 (01m00s) :
+	- nous commençons la présentation du futur du SI par le POS applicatif
+	- Présentation des services fonctionnels par zone et quartier
+	>>>> Clic <<<<
+	- Nous pouvons constater que peu de changement auront lieu lors de l'urbanisation
+	- Les service existants restens inchangés, par contre, quelques services supplémentaires seront ajoutés
+	- Dans la zone des opérations, le service SGDT
+	- Autres services dans la zone de relations, car des services liés aux éxchanges avec les clients
+	
+
+Diapositive 15 (01m00s) :
+	- En ce qui concerne la cartographie fonctionnelle du SI
+		> Des composants séparés et sans communication
+	>>>> Clic <<<<
+	- Après urbanisation, mise en place de la solution PGI (Progiciel de gestion intégrée) qui concentre toutes les fonctions existantes et fournit les mêmes services
+	- ajout de nouveaux composants avec la réalisation des projets, en bleu foncé, Aeronet, et en Jaune, O3.
+	- Si on regarde en détail le O3, 5 nouvelles fonctionnalités seront créées, et un préfixe de 1 ou 2 entre parathéses a été ajouté pour indiquer sur quelle livraison la fonctionnalité sera fournie
+
+Diapositive 16 (01m00s) :
+	- Concernant la solution technique, en ce moment, à l'image de la cartographie fonctionnelle, les réseaux existants sont séparés et sans communication
+	>>>> Clic <<<<
+	- Après urbanisation, un seul réseau fédérateur sera créé qui connectera tous les composants existants à ceux qui seront créés
+	- Par exemple, nous pouvons constater qu'une ferme de serveurs sera créé, ou le serveur ERP, ici en rouge, sera inclus
+	- Si on regarde aussi les objets jaunes, nous pouvons constater qu'une application et un extranet sera ajouté pour executer les nouvelles fonctionnalités implémentés par le projet O3
+	
+
+Diapositive 17 (00m30s) :
+	- Dans le projet de migration :
+		> Début par l'installation de l'ERP et le déploiement des 650 postes
+		> Après c'est le projet Aeronet avec les modifications sur le réseau
+		> Et finalement, le projet O3 avec l'extranet où les utilisateurs peuvent voir en temps réel les services d'Aero-Breizh
+
+Diapositive 18 (00m10s) :
+	- Lire
